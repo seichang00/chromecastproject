@@ -1,0 +1,35 @@
+{
+    "devices": [
+      {
+        "cameraid": "asdf1",
+        "CameraStream": {
+          "cameraStreamAccessUrl": "http://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd"
+        },
+        "Name": "Dan",
+        "OnOff": {
+          "isOn": false
+        }
+      },
+      {
+        "cameraid": "asdf2",
+        "CameraStream": {
+          "cameraStreamAccessUrl": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-85.mp4"
+        },
+        "Name": "Randy",
+        "OnOff": {
+          "isOn": false
+        }
+      },
+      {
+        "cameraid": "asdf3",
+        "CameraStream": {
+          "cameraStreamAccessUrl": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-85.mp4"
+        },
+        "Name": "Bob",
+        "OnOff": {
+          "isOn": false
+        }
+      }
+    ],
+    "id": "google-oauth2|101258843170940499070"
+  }
